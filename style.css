@@ -1,0 +1,34 @@
+.main-bg{
+  min-height: 60vh;
+  background-image: url("https://s3.envato.com/files/243821483/preview.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+footer{
+  min-height: 8vh;
+}
+
+.photos{
+  object-fit: cover;
+  
+}
+
+.sqaure-img{
+  min-height: 25vh;
+  min-width: 25vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.img-1{
+  background-image: url("https://img.freepik.com/free-photo/male-hand-hold-cup-coffee-blue-background-top-view_7192-684.jpg?size=626&ext=jpg");
+}
+
+.img-2{
+  background-image: url("https://img.freepik.com/free-photo/male-hand-hold-cup-coffee-blue-background-top-view_7192-684.jpg?size=626&ext=jpg");
+}
+
+.img-3{
+  background-image: url("https://img.freepik.com/free-photo/male-hand-hold-cup-coffee-blue-background-top-view_7192-684.jpg?size=626&ext=jpg");
+}
